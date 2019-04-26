@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetoBiblioteca:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoBiblioteca_jar</output-path>
+    <root id="archive" name="ProjetoBiblioteca.jar">
+      <element id="module-output" name="ProjetoBiblioteca" />
+      <element id="directory" name="Resources">
+        <element id="file-copy" path="$USER_HOME$/Desktop/ProjetoBiblioteca.pdf" />
+      </element>
+    </root>
+  </artifact>
+</component>
